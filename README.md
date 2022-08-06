@@ -10,19 +10,19 @@ Steps:
 
 1.	Create a folder and get into it
 
- •	mkdir <folder_name>
+   •	mkdir <folder_name>
  
- •	cd <folder_name>
+   •	cd <folder_name>
 
 2.	Create a yaml file
 
- •	sudo nano docker-compose.yml
+   •	sudo nano docker-compose.yml
  
 4.	Build the docker compose file:
 
- •	sudo docker-compose up -d
+   •	sudo docker-compose up -d
  
 5.	Ensure the containers are running:
 
- •	sudo docker ps
+   •	sudo docker ps
 
