@@ -1,4 +1,4 @@
-# docker-compose
+# Deploying Wordpress with Mysql using docker compose
 
 Pre-requisites:
 
